@@ -1,6 +1,6 @@
 #block all
 *.*
-
+*
 #unblock
 !*.asm
 !*.cc
