@@ -3,6 +3,7 @@
 *
 #unblock
 !*.asm
+!*.nasm
 !*.cc
 !*.c
 !*.txt
