@@ -10,6 +10,8 @@ push 0xdeadbeef
 call print_int_2
 add esp, 4
 
+push 12345678
+call print_int_3
 
 push 0 ; push 0 to stack && exit
 call [ebx]
@@ -39,6 +41,18 @@ print_int_2: ; cdecl
   call [ebx+3*4]
   add esp, 8
   ret
+
+
+print_int_3: ; cdecl
+  push dword [esp+4]
+  call print_int_3_p
+  db "%i", 0xa, 0
+  print_int_3_p:
+  call [ebx+3*4]
+  add esp, 8
+  retn 4
+
+
 
   ; cdecl - caller cleans stack (ex. printf)
   ; stdcall - callee cleans stack 
