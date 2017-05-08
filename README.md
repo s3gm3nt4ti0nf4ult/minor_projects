@@ -1,10 +1,14 @@
-Assembly branch contains myself introduction to assembly with Gynvael's tutor and his awsome tool 'asmloader'. I will also publish here some notes for assembly and RE usage.
+### Minor projects:
+Assembly - contains myself introduction to assembly with Gynvael's tutor and his awsome tool 'asmloader'. I will also publish here some notes for assembly and RE usage.
 
 Link for tutorials (polish speakers only):
-https://www.youtube.com/playlist?list=PL7CA8FE35B665D4DD
+[klik](https://www.youtube.com/playlist?list=PL7CA8FE35B665D4DD)
 
 And link for asmloader project:
-https://github.com/gynvael/asmloader
+[klik](https://github.com/gynvael/asmloader)
 
 Here is what asmloader is:
-http://gynvael.coldwind.pl/?id=387
+[klik](http://gynvael.coldwind.pl/?id=387)
+
+I also recommend his github:
+[link](https://github.com/gynvael)
