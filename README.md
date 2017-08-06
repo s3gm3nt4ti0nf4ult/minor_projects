@@ -1,5 +1,8 @@
-### Minor projects:
-Assembly - contains myself introduction to assembly with Gynvael's tutor and his awsome tool 'asmloader'. I will also publish here some notes for assembly and RE usage.
+## Minor projects:
+
+#### Assembly
+
+Assembly -  contains myself introduction to assembly with Gynvael's tutor and his awsome tool 'asmloader'. I will also publish here some notes for assembly and RE usage.
 
 Link for tutorials (polish speakers only):
 [klik](https://www.youtube.com/playlist?list=PL7CA8FE35B665D4DD)
@@ -12,3 +15,11 @@ Here is what asmloader is:
 
 I also recommend his github:
 [link](https://github.com/gynvael)
+
+#### Go 
+
+Go contains my GO minor projects, written to learn this language.
+
+#### Rust
+
+Same as above but in Rust. 
