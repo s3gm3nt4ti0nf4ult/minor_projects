@@ -1,10 +1,4 @@
-#block all
-*.*
-*
-#unblock
-!*.asm
-!*.nasm
-!*.cc
-!*.c
-!*.txt
-!*.md
+*.bin
+*.exe
+*.o
+*.out
